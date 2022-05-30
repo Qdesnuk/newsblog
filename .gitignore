@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+/.idea/
+/venv/
+/lib/
+/Scripts/
+requirements.txt
+pyvenv.cfg
+/tooster/static/
